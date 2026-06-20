@@ -1,62 +1,15 @@
-# Hi 👋, I'm KOTHA SAI SRINATH
+# 💫 About Me:
+Hi 👋, I'm KOTHA SAI SRINATH<br>Aspiring Data Analyst | B.Tech CSE Student<br>🎓 B.Tech Computer Science & Engineering Student at GITAM University Hyderabad<br><br>📊 Passionate about Data Analytics, Business Intelligence, and Data Visualization<br><br>💻 Skilled in Excel, SQL, Power BI, Python, and MySQL<br><br>🌱 Currently learning Advanced SQL, Power BI, and Computer Networks<br><br>🎯 Seeking Data Analytics Internship Opportunities<br><br>🛠 Skills & Tools<br>Excel<br>SQL<br>Power BI<br>Python<br>MySQL<br>Git & GitHub<br>🚀 Featured Projects<br>📊 Olist E-Commerce Business Analytics<br>Built interactive Excel dashboards for business performance tracking<br>Performed SQL-based customer and seller analysis<br>Developed KPI-driven insights for decision making<br>📈 Olist E-Commerce Analytics Using Power BI<br>Created interactive Power BI dashboards<br>Analyzed sales, revenue, and customer behavior<br>Applied data visualization best practices<br>📞 Customer Churn Analysis<br>Explored customer retention patterns<br>Identified churn drivers and trends<br>Delivered actionable business recommendations<br>🏦 ATM Banking System<br>Developed a banking application using Python and MySQL<br>Implemented account management and transaction tracking<br>Integrated database operations for secure data storage<br>📫 Connect With Me<br>🔗 LinkedIn: www.linkedin.com/in/kotha-sai-srinath-b55144322<br><br>💻 GitHub: github.com/srinath0509-ops<br><br>⭐ Always learning, building projects, and improving my data analytics skills.<br><br>PinnedLoading<br> ATM-Banking-System-Python-MySQL Public<br>ATM Banking System using Python & MySQL with secure authentication, deposits, withdrawals, fund transfers, and transaction history management.<br><br> Python<br><br> Customer-Churn-Analysis Public<br>End-to-end Telecom Customer Churn Analysis project developed during my Data Visualization Internship at Saiket Systems using Excel, including data exploration, visualizations, churn insights, and b…<br><br><br> Olist-Ecommerce-Business-Analytics Public<br><br><br> Olist-Ecommerce-Business-Analytics-Using-POWER-BI Public<br>Interactive E-Commerce Business Analytics Dashboard built using Power BI, SQL, DAX, and the Olist dataset to analyze sales, customers, delivery performance, and seller insights.
 
-### Aspiring Data Analyst | B.Tech CSE Student
 
-🎓 B.Tech Computer Science & Engineering Student at GITAM University Hyderabad
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sai_kotha__0509) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kotha-sai-srinath-b55144322) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:skotha@student.gitam.edu) 
 
-📊 Passionate about Data Analytics, Business Intelligence, and Data Visualization
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=srinath0509-ops&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=srinath0509-ops&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=srinath0509-ops&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-💻 Skilled in Excel, SQL, Power BI, Python, and MySQL
-
-🌱 Currently learning Advanced SQL, Power BI, and Computer Networks
-
-🎯 Seeking Data Analytics Internship Opportunities
-
----
-
-## 🛠 Skills & Tools
-
-- Excel
-- SQL
-- Power BI
-- Python
-- MySQL
-- Git & GitHub
-
----
-
-## 🚀 Featured Projects
-
-### 📊 Olist E-Commerce Business Analytics
-- Built interactive Excel dashboards for business performance tracking
-- Performed SQL-based customer and seller analysis
-- Developed KPI-driven insights for decision making
-
-### 📈 Olist E-Commerce Analytics Using Power BI
-- Created interactive Power BI dashboards
-- Analyzed sales, revenue, and customer behavior
-- Applied data visualization best practices
-
-### 📞 Customer Churn Analysis
-- Explored customer retention patterns
-- Identified churn drivers and trends
-- Delivered actionable business recommendations
-
-### 🏦 ATM Banking System
-- Developed a banking application using Python and MySQL
-- Implemented account management and transaction tracking
-- Integrated database operations for secure data storage
-
----
-
-## 📫 Connect With Me
-
-🔗 LinkedIn:
-www.linkedin.com/in/kotha-sai-srinath-b55144322
-
-💻 GitHub:
-github.com/srinath0509-ops
-
----
-
-⭐ Always learning, building projects, and improving my data analytics skills.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
