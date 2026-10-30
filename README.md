@@ -6,9 +6,9 @@
 
 📊 Passionate about Data Analytics, Business Intelligence, and Data Visualization
 
-💻 Skilled in Excel, SQL, Power BI, Python, and MySQL
+💻 Skilled in Excel, SQL, Power BI, Python, Pandas, Numpy, Seaborn, Matplotlib, Tableau, MySQL
 
-🌱 Currently learning Advanced SQL, Power BI, and Computer Networks
+🌱 Currently learning Advanced SQL
 
 🎯 Seeking Data Analytics Internship Opportunities
 
@@ -21,6 +21,7 @@
 - Power BI
 - Python
 - MySQL
+- Tableau
 - Git & GitHub
 
 ---
